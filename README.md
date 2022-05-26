@@ -18,7 +18,7 @@ To install ALLT coin(allt) Masternode use the following command:
 
 `bash <( curl -sL https://raw.githubusercontent.com/alltransfercoin/MasternodeSetup/master/masternode-install.sh`)
 
-- Enjoy
+- done and ENJOY!
 
 check your masternode status using `allt-cli getmasternodestatus` after run it from local wallet
 
