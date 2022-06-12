@@ -9,7 +9,8 @@
 
 2. Download Local Wallet for your operating system: : https://github.com/alltransfercoin/allt/releases/
 
-- You can see daily income and collateral info here: (coming soon)
+- You can see daily income and collateral info here: 
+Nodestats: ***•https://nodestats.info/default.php?coin=allt <br>***
 
 3. You will need also VPS with Ubuntu 16.04 or 18.04 or 20.04
 
