@@ -4,8 +4,8 @@
 
 1. Allt coins for Collateral <br>
 (You can buy from exchange for collateral) <br>
-***•https://www.exbitron.com/trading/alltbtc <br>*** (coming soon)
-
+***•https://www.exbitron.com/trading/alltbtc <br>*** 
+***•https://www.exbitron.com/trading/alltusdt <br>***
 
 2. Download Local Wallet for your operating system: : https://github.com/alltransfercoin/allt/releases/
 
